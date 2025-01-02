@@ -1,6 +1,6 @@
 # TripleTen-Projects
 
-# Projects
+## Projects
 Compilation of all projects I've completed throughout [TripleTen's Data Science Bootcamp](https://tripleten.com/data-science/) 
 
 | Name                   | Description            | Libraries                  |
